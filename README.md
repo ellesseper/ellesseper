@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ellesseper
 - 👀 I’m interested in browsing fashion clothes, hiking, sketching, stargazing and learning new things.
 - 🌱 I’m currently learning Web Development
-- 💞️ It's my dream someday to collaborate with fashion designers located in London
 - 📫 email me at ellessepermailme@gmail.com
 
 <!---
